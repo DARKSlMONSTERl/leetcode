@@ -1,0 +1,7 @@
+{
+    "editor.formatOnType": true,
+    "editor.autoIndent": "full",
+    "editor.defaultFormatter": "ms-vscode.cpptools",
+    "C_Cpp.clang_format_formatOnSave": false,
+    "C_Cpp.clang_format_style": "Visual Studio"
+}
